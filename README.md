@@ -1,65 +1,119 @@
 AI-Based Job Portal System
 
-Overview
-
-This project is an AI-powered Job Portal designed to connect job seekers and recruiters using intelligent job matching and recommendation techniques. The system leverages modern full-stack technologies and Artificial Intelligence to automate resume analysis and job recommendations.
-
-Problem Statement
-
-Existing job portals depend mainly on manual filtering and keyword-based searches, which are inefficient and time-consuming. Recruiters struggle to find suitable candidates, and job seekers face difficulty discovering relevant opportunities.
-
-Proposed Solution
-
-The AI Job Portal provides:
-
-Smart resume analysis
-
-AI-based job and candidate recommendations
-
-Secure and scalable cloud-based infrastructure
-
-Separate roles for Job Seekers, Recruiters, and Admins
+> An intelligent recruitment platform that uses Artificial Intelligence to match job seekers with relevant opportunities efficiently and securely.
 
 
-Technology Stack
+
+📌 Project Overview
+
+The AI-Based Job Portal System is a full-stack web application designed to modernize the recruitment process. It uses AI-driven analysis to understand resumes and job descriptions, enabling smart job recommendations and efficient candidate shortlisting.
+
+This project focuses on scalability, security, and intelligent automation using modern technologies.
+
+
+
+🎯 Problem Statement
+
+Traditional job portals rely heavily on manual filtering and keyword-based searches. This results in:
+
+Inefficient candidate shortlisting
+
+Poor job recommendations
+
+Increased time for recruiters
+
+Limited relevance for job seekers
+
+
+There is a need for an intelligent system that can analyze skills, experience, and job requirements automatically.
+
+
+
+💡 Proposed Solution
+
+The proposed system introduces:
+
+AI-powered resume and job description analysis
+
+Intelligent job and candidate matching
+
+Secure authentication and role-based access
+
+Cloud-based storage and scalable backend services
+
+
+The platform supports Job Seekers, Recruiters, and Admins with clearly defined functionalities.
+
+
+
+🛠️ Technology Stack
 
 Frontend
 
-React.js – For building a responsive and dynamic user interface
+  React.js
+
+  Component-based UI
+
+  Responsive and interactive design
+
 
 
 Backend
 
-Java + Spring Boot – For REST APIs, business logic, and secure authentication
+  Java + Spring Boot
+
+  RESTful APIs
+
+  Business logic and security handling
+
+  Scalable service architecture
 
 
-Artificial Intelligence
 
-Python – For resume parsing, job description analysis, and recommendation algorithms
+AI & Machine Learning
+
+  Python
+
+  Resume parsing
+
+  Skill extraction
+
+  Job recommendation logic
+
 
 
 Database & Cloud Services
 
-Supabase – For database management, authentication, cloud storage, and security
+  Supabase
+
+  Authentication and authorization
+
+  Secure cloud storage
+
+  Managed database services
 
 
-Security
 
-JWT-based authentication
+Security Features
 
-Role-based access control
+  JWT-based authentication
 
-Secure API communication
+  Role-based access control
+
+  Secure API communication
 
 
-Project Scope
 
-User authentication and authorization
+📂 Project Scope
+
+User registration and authentication
 
 Resume upload and job posting
 
-AI-based job matching
+AI-based job matching and recommendations
 
-Secure data storage
+Secure cloud storage
 
-Scalable backend architecture
+Modular and scalable system design
+
+
